@@ -1,0 +1,418 @@
+[
+  {
+    "joke": "टीचर: यह बताओ कि 'सचिन' और 'राहुल' में क्या समानता है?\nबच्चा: दोनों ही क्रिकेटर हैं।",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/sachin_rahul.jpg",
+      "alt": "सचिन और राहुल दोनों क्रिकेटर हैं"
+    }
+  },
+  {
+    "joke": "पति: तुम मुझसे कितना प्यार करती हो?\nपत्नी: जितना तुम्हारा वेतन!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/husband_wife_love.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "डॉक्टर: तुम्हारी तबियत कैसी है?\nमरीज: आपकी दवाई खाने के बाद मैं डॉक्टर बनने की सोच रहा हूँ।",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/doctor_patient.jpg",
+      "alt": "डॉक्टर और मरीज का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: अगर पृथ्वी गोल है तो दुनिया के लोग गिरते क्यों नहीं?\nबच्चा: क्योंकि दुनिया वालों को गिराने के लिए लोग ही काफी हैं!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/earth_round.jpg",
+      "alt": "पृथ्वी और लोगों का मजाक"
+    }
+  },
+  {
+    "joke": "बॉस: तुम देर से क्यों आए हो?\nकर्मचारी: बॉस, आप ही ने कहा था कि लेट आओ पर लेटेस्ट आओ!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/boss_employee.jpg",
+      "alt": "बॉस और कर्मचारी का मजाक"
+    }
+  },
+  {
+    "joke": "पत्नी: सुनिए जी, आप मुझे प्यार करते हैं?\nपति: हां, बिलकुल।\nपत्नी: तो फिर फोन का पासवर्ड क्यों नहीं देते?",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/phone_password.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "दोस्त: क्या तुम्हारी नई नौकरी कैसी है?\nदोस्त: बहुत बढ़िया है, केवल एक ही समस्या है, वहां का बॉस बड़ा सख्त है।\nपहला दोस्त: अरे, किस कंपनी में काम कर रहे हो?\nदूसरा दोस्त: अपनी खुद की!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/own_boss.jpg",
+      "alt": "दोस्तों का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: एक गिलास में आधा पानी और आधा हवा होता है, तो इसमें कितना पानी है?\nबच्चा: आधा!\nटीचर: और कितनी हवा है?\nबच्चा: आधा!\nटीचर: तो दोनों मिला कर कितना हुआ?\nबच्चा: फुल!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/full_glass.jpg",
+      "alt": "गिलास का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: बताओ, सबसे पुरानी चीज क्या है?\nबच्चा: टीचर! सबसे पुरानी चीज दादी का फोन है, जो अभी तक नहीं बदला।",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/old_phone.jpg",
+      "alt": "पुरानी चीज का मजाक"
+    }
+  },
+  {
+    "joke": "बॉस: तुम्हारे घर में आग लगी थी, फिर भी तुम ऑफिस क्यों आए?\nकर्मचारी: क्योंकि आपने ही कहा था कि हर स्थिति में काम करना चाहिए!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/fire_home.jpg",
+      "alt": "बॉस और कर्मचारी का मजाक"
+    }
+  },
+  {
+    "joke": "डॉक्टर: अगर तुम्हें इतना ही दर्द हो रहा है तो तुमने पहले क्यों नहीं बताया?\nमरीज: क्योंकि तब आप फीस मांगते और अब आप इलाज कर रहे हैं।",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/doctor_fees.jpg",
+      "alt": "डॉक्टर और मरीज का मजाक"
+    }
+  },
+  {
+    "joke": "पति: तुमने मेरी शर्ट क्यों जलायी?\nपत्नी: क्योंकि तुमने ही कहा था कि कुछ भी गलत लगने पर जला देना।",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/burn_shirt.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "बच्चा: पापा, आप मुझसे कितना प्यार करते हैं?\nपापा: जितना तुम चॉकलेट से करते हो!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/child_chocolate.jpg",
+      "alt": "पिता पुत्र का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: दुनिया का सबसे ताकतवर इंसान कौन है?\nबच्चा: वह व्यक्ति जो अपने गुस्से को काबू में रख सकता है!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/strong_person.jpg",
+      "alt": "ताकतवर इंसान का मजाक"
+    }
+  },
+  {
+    "joke": "पत्नी: आप मुझे इतनी सारी चीजें क्यों खरीदते हैं?\nपति: ताकि जब भी आप गुस्सा हों, आपके पास कुछ नया फेंकने के लिए हो।",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/gifts_wife.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "बॉस: तुमने अभी तक काम क्यों नहीं पूरा किया?\nकर्मचारी: क्योंकि आपने कहा था कि जल्दबाजी में काम खराब होता है!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/slow_work.jpg",
+      "alt": "बॉस और कर्मचारी का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: बताओ, सबसे लंबी रात कौन सी होती है?\nबच्चा: वह जब हम सो नहीं पाते!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/long_night.jpg",
+      "alt": "लंबी रात का मजाक"
+    }
+  },
+  {
+    "joke": "पति: मैं तुम्हें चाँद और तारे तो नहीं ला सकता, लेकिन तुम्हारे लिए कुछ अच्छा खाने को जरूर ला सकता हूँ।\nपत्नी: मुझे तो चाँद और तारे ही चाहिए थे!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/moon_stars.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "डॉक्टर: तुम्हें क्या तकलीफ है?\nमरीज: डॉक्टर साहब, जब भी मैं काम करने लगता हूँ, तो बहुत तकलीफ होती है।",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/work_pain.jpg",
+      "alt": "डॉक्टर और मरीज का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: अगर तुमने घर का काम पूरा नहीं किया, तो क्या होगा?\nबच्चा: तो कुछ नहीं, बस घर में और भी काम करना पड़ेगा।",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/homework.jpg",
+      "alt": "घर का काम"
+    }
+  },
+  {
+    "joke": "पत्नी: क्या आप मेरे साथ रोमांटिक फिल्म देखने चलेंगे?\nपति: हां, लेकिन केवल तब जब हीरो मेरा दोस्त हो!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/romantic_movie.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "दोस्त: तुम्हारा नया बॉस कैसा है?\nदूसरा दोस्त: बिल्कुल पुराने बॉस की तरह, केवल नाम बदला है।",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/new_boss.jpg",
+      "alt": "बॉस का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: अगर तुम्हें कुछ समझ में नहीं आता तो मुझसे पूछो।\nबच्चा: मैम, आप इतनी जल्दी-जल्दी पढ़ाती क्यों हैं?",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/fast_teaching.jpg",
+      "alt": "टीचर का मजाक"
+    }
+  },
+  {
+    "joke": "पति: तुम्हारी साड़ी बहुत सुंदर है।\nपत्नी: हां, लेकिन आपकी जेब थोड़ी हल्की हो गई है!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/saree.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "बॉस: तुमने इस महीने इतने छुट्टियां क्यों ली?\nकर्मचारी: बॉस, मैंने सोचा था कि आप मेरी मेहनत को देखकर खुश होंगे!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/holidays.jpg",
+      "alt": "बॉस और कर्मचारी का मजाक"
+    }
+  },
+  {
+    "joke": "डॉक्टर: अगर तुम्हें आराम नहीं मिल रहा है तो तुमने पहले क्यों नहीं बताया?\nमरीज: क्योंकि जब आप आराम देते हैं, तो फीस भी लेते हैं।",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/doctor_fees2.jpg",
+      "alt": "डॉक्टर और मरीज का मजाक"
+    }
+  },
+  {
+    "joke": "पति: तुम्हारी आदतें बहुत बदल गई हैं।\nपत्नी: हां, अब मुझे आपकी आदतें बर्दाश्त करने की आदत हो गई है!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/habits.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: तुम्हें घर का काम करना अच्छा लगता है?\nबच्चा: हां, लेकिन तब जब मम्मी कर रही हो!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/homework_mom.jpg",
+      "alt": "बच्चा और टीचर का मजाक"
+    }
+  },
+  {
+    "joke": "दोस्त: तुम्हें पता है, मैं सिंगल क्यों हूं?\nदूसरा दोस्त: क्योंकि तुमने अभी तक शादी नहीं की!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/single.jpg",
+      "alt": "दोस्तों का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: अगर तुमने क्लास में शांति नहीं बनाई, तो मैं तुम्हें बाहर निकाल दूंगी।\nबच्चा: ठीक है, मैडम। बाहर जाकर मैं और भी शांति से खेलूंगा।",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/class_out.jpg",
+      "alt": "टीचर और बच्चे का मजाक"
+    }
+  },
+  {
+    "joke": "पत्नी: आपको मेरे बालों का रंग कैसा लग रहा है?\nपति: बिलकुल मेरे बालों जैसा!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/hair_color.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "बॉस: तुमने इतने ज्यादा समय क्यों लिया?\nकर्मचारी: बॉस, काम करना समय लगता है!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/working_time.jpg",
+      "alt": "बॉस और कर्मचारी का मजाक"
+    }
+  },
+  {
+    "joke": "डॉक्टर: तुम्हारी तबियत अब कैसी है?\nमरीज: डॉक्टर साहब, आपकी दवाई खाने के बाद मैं अब बुक लिखने की सोच रहा हूँ!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/write_book.jpg",
+      "alt": "डॉक्टर और मरीज का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: बताओ, सबसे तेज चीज क्या है?\nबच्चा: नींद, क्योंकि जब आती है तो कुछ पता नहीं चलता!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/sleep.jpg",
+      "alt": "टीचर और बच्चे का मजाक"
+    }
+  },
+  {
+    "joke": "पति: मैं तुम्हारे लिए कुछ खास करना चाहता हूँ।\nपत्नी: तो मेरे लिए एक नया फोन ला दो!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/new_phone.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "बॉस: तुमने अभी तक काम क्यों नहीं पूरा किया?\nकर्मचारी: बॉस, आपने कहा था कि जल्दी का काम शैतान का होता है!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/work_complete.jpg",
+      "alt": "बॉस और कर्मचारी का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: बताओ, सबसे लंबी चीज क्या है?\nबच्चा: मैडम, आपकी लैक्चर!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/long_lecture.jpg",
+      "alt": "टीचर का मजाक"
+    }
+  },
+  {
+    "joke": "पत्नी: आप मेरे लिए क्या ला रहे हो?\nपति: कुछ नहीं, क्योंकि आप ही ने कहा था कि आपको कुछ नहीं चाहिए!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/nothing.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "बॉस: तुमने इतने दिन की छुट्टी क्यों ली?\nकर्मचारी: बॉस, आपने कहा था कि काम से ब्रेक लेना जरूरी है!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/break.jpg",
+      "alt": "बॉस और कर्मचारी का मजाक"
+    }
+  },
+  {
+    "joke": "डॉक्टर: तुम्हें नींद क्यों नहीं आती?\nमरीज: क्योंकि आपसे मिलने के बाद मुझे सपनों में भी आपकी फीस याद आती है!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/doctor_fee_dream.jpg",
+      "alt": "डॉक्टर और मरीज का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: दुनिया का सबसे अमीर आदमी कौन है?\nबच्चा: वह जिसके पास ढेर सारी छुट्टियां हैं!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/richest_man.jpg",
+      "alt": "टीचर और बच्चे का मजाक"
+    }
+  },
+  {
+    "joke": "पत्नी: आपको मुझसे प्यार है?\nपति: हां, लेकिन तब जब आप मुझसे कुछ नहीं पूछतीं!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/love_wife.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "बॉस: तुमने अभी तक काम क्यों नहीं पूरा किया?\nकर्मचारी: बॉस, आपने कहा था कि काम की क्वालिटी जरूरी है, क्वांटिटी नहीं!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/work_quality.jpg",
+      "alt": "बॉस और कर्मचारी का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: अगर तुम्हें कुछ समझ नहीं आता, तो मुझसे पूछो।\nबच्चा: मैडम, आप इतनी जल्दी-जल्दी क्यों पढ़ाती हैं?",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/fast_teaching2.jpg",
+      "alt": "टीचर और बच्चे का मजाक"
+    }
+  },
+  {
+    "joke": "पति: तुम्हारी शॉपिंग कब खत्म होगी?\nपत्नी: जब आपके पास पैसे खत्म हो जाएंगे!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/shopping.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "बॉस: तुम ऑफिस में लेट क्यों आए?\nकर्मचारी: बॉस, आप ही ने कहा था कि लेट आओ, लेकिन काम पूरा करके आओ!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/late_office.jpg",
+      "alt": "बॉस और कर्मचारी का मजाक"
+    }
+  },
+  {
+    "joke": "डॉक्टर: तुम्हें कोई समस्या है?\nमरीज: हां, आपकी फीस बहुत ज्यादा है!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/doctor_fees_high.jpg",
+      "alt": "डॉक्टर और मरीज का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: अगर तुम्हें क्लास में शांति चाहिए, तो क्या करना चाहिए?\nबच्चा: क्लास में आना ही नहीं चाहिए!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/classroom_silence.jpg",
+      "alt": "टीचर और बच्चे का मजाक"
+    }
+  },
+  {
+    "joke": "पति: तुम्हें मेरे लिए क्या लाना चाहिए?\nपत्नी: एक अच्छा सा गिफ्ट!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/gift.jpg",
+      "alt": "पति पत्नी का मजाक"
+    }
+  },
+  {
+    "joke": "बॉस: तुमने इतने दिन की छुट्टी क्यों ली?\nकर्मचारी: बॉस, काम से ब्रेक लेना भी तो जरूरी है!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/break2.jpg",
+      "alt": "बॉस और कर्मचारी का मजाक"
+    }
+  },
+  {
+    "joke": "डॉक्टर: तुम्हारी सेहत कैसी है?\nमरीज: डॉक्टर साहब, आपकी दवाई खाने के बाद अब मैं और भी स्वस्थ हो गया हूँ!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/healthy.jpg",
+      "alt": "डॉक्टर और मरीज का मजाक"
+    }
+  },
+  {
+    "joke": "टीचर: दुनिया का सबसे गरीब आदमी कौन है?\nबच्चा: वह जिसके पास कोई दोस्त नहीं है!",
+    "image": {
+      "altSrc": "https://navbharattimes.indiatimes.com/thumb/102770264/navbharat-times-102770264.jpg?imgsize=55442&width=540&resizemode=3",
+      "src": "https://example.com/poorest_man.jpg",
+      "alt": "टीचर और बच्चे का मजाक"
+    }
+  }
+]
